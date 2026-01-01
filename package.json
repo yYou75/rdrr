@@ -1,6 +1,6 @@
 {
   "name": "rdrr",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "Convert any URL to clean markdown for AI agents.",
   "main": "src/index.ts",
   "scripts": {
